@@ -1,5 +1,5 @@
 # Martian-terrain-Images-Segmentation
-Project related to the course of Artificial "Neural Networks and Deep Learning" (AN2DL) at POLIMI (polytechnic university of Milan)
+Project related to the course of "Artificial Neural Networks and Deep Learning" (AN2DL) at POLIMI (polytechnic university of Milan)
 
 ## Introduction
 This project was developed to solve an image classification problem as part of [Second challenge of the course of Artificial Neural Networks and Deep Learning (AN2DL)](https://www.linkedin.com/posts/airlab-polimi_artificialneuralnetworks-deeplearning-semanticsegmentation-activity-7274099168485277696-GhP9?utm_source=share&utm_medium=member_desktop).
